@@ -1,5 +1,5 @@
 ## Hello i'm Gleb 👋
-### I'm a beginner Python programmer
+### I'm a Python programmer
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3B77A7)](https://www.python.org/)
