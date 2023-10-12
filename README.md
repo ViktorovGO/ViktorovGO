@@ -10,3 +10,6 @@
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vastassss)
 [![Gmail](https://img.shields.io/badge/-mail-090909?style=for-the-badge&logo=gmail&logoColor=32A350)](mailto:glebviktorov31@gmail.com)
+
+### Codewars profile:
+[![Profile badge](https://www.codewars.com/users/Flashr/badges/small)](https://www.codewars.com/users/Flashr)
