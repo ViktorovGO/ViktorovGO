@@ -3,6 +3,7 @@
 
 ### Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3B77A7)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor=3B77A7)](https://go.dev/)
 [![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite&logoColor=2489CD)](https://www.sqlite.org/index.html)
 [![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=F7F7F7)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
